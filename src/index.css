@@ -1,0 +1,11 @@
+:root {
+  text-align: center;
+  background: linear-gradient(140deg, #fe3c72 0%,#424242 100%);
+  background-size: cover !important;
+  background-position: 50% 50%; 
+  height: auto;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+
